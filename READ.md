@@ -1,3 +1,3 @@
-# Ejercicios de SI PAC 1 2022
+# Ejercicios de Sistemas de Información PAC 1 2022
 
 Línea agregada desde github
